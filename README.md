@@ -28,11 +28,16 @@ This is a 7B parameter model. It is **massive** (over 10GB in memory) and **requ
 
 Run this in a single Colab cell. It will clone your repository, move into the project folder, and install all necessary libraries.
 
-```python
+```
 !git clone [https://github.com/Satvik12221as/image-captioning.git](https://github.com/Satvik12221as/image-captioning.git)
 %cd image-captioning
 !pip install -r requirements.txt
 !pip install bitsandbytes accelerate
 !python llava_model.py
 from IPython.display import Image
-Image('images/image1.jpg', width=400) # Displaying the image with a set width
+Image('images/image1.jpg', width=400) # Displaying the image with a set width```
+
+----
+ 
+##
+
