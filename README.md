@@ -1,4 +1,4 @@
-# 🤖 Image Captioning (LLaVA 7B)
+# 🤖 Image Captioning Project
 
 I have configured this repository to run a multimodal model, **LLaVA (Large Language and Vision Assistant)**.
 
