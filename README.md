@@ -24,7 +24,7 @@ This is a 7B parameter model. It is **massive** (over 10GB in memory) and **requ
 2.  In the menu, go to **Runtime - Change runtime type**.
 3.  Select **T4 GPU**.
 
-### Step 2: Clone Project & Install Requirements
+### Step 2: Clone Project and run the script
 
 Run this in a single Colab cell. It will clone your repository, move into the project folder, and install all necessary libraries.
 
@@ -33,3 +33,6 @@ Run this in a single Colab cell. It will clone your repository, move into the pr
 %cd image-captioning
 !pip install -r requirements.txt
 !pip install bitsandbytes accelerate
+!python llava_model.py
+from IPython.display import Image
+Image('images/image1.jpg', width=400) # Displaying the image with a set width
