@@ -8,7 +8,7 @@ This is a powerful visual analysis tool. It uses the LLaVA model's deep, interne
 
 ## Key Features
 
-* **State-of-the-Art Model:** Implements `llava-hf/llava-1.5-7b-hf`, a 7-billion parameter model for deep visual understanding.
+* **Model:** Implements `llava-hf/llava-1.5-7b-hf`, a 7-billion parameter model for deep visual understanding.
 * **Deep Contextual Knowledge:** The model's vast training allows it to recognize specific people, characters, and landmarks with high accuracy.
 * **GPU-Optimized:** The code uses `BitsAndBytesConfig` for 4-bit quantization, a technique that compresses the massive model to run on free or consumer-grade GPUs (like the T4 in Google Colab).
 
