@@ -14,7 +14,7 @@ This is a powerful visual analysis tool. It uses the LLaVA model's deep, interne
 
 ---
 
-## 💻 How to Run This Project (Recommended: Google Colab)
+## 💻 How to Run This Project 
 
 This is a 7B parameter model. It is **massive** (over 10GB in memory) and **requires a powerful GPU** to run. The easiest and most accessible way to run this is using a **free T4 GPU** provided by Google Colab.
 
@@ -42,5 +42,5 @@ Image('images/image1.jpg', width=400) # Displaying the image with a set width
 
 ## Project Demo
 
-![alt text](<Screenshot 2025-11-09 221343.png>)
-![alt text](<Screenshot 2025-11-09 225451.png>)
+![alt text](<images/Screenshot 2025-11-09 221343.png>)
+![alt text](<images/Screenshot 2025-11-09 225451.png>)
