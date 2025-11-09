@@ -57,4 +57,4 @@ plt.figure(figsize=(10, 12))  # Make figure larger to fit text
 plt.imshow(np.asarray(raw_image))
 plt.title(response_clean, fontsize=10, pad=20, wrap=True) # Add caption as title
 plt.axis('off')
-plt.show() # This displays the plot in Colab
+plt.show() # This displays the plot in colab
