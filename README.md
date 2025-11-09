@@ -21,8 +21,8 @@ This is a 7B parameter model. It is **massive** (over 10GB in memory) and **requ
 ### Step 1: Open Colab & Enable GPU
 
 1.  Go to [colab.research.google.com](https://colab.research.google.com) and start a **New Notebook**.
-2.  In the menu, go to **Runtime -> Change runtime type**.
-3.  Select **T4 GPU** from the "Hardware accelerator" dropdown and click **Save**.
+2.  In the menu, go to **Runtime - Change runtime type**.
+3.  Select **T4 GPU**.
 
 ### Step 2: Clone Project & Install Requirements
 
