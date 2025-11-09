@@ -7,7 +7,7 @@ import numpy as np
 
 # --- 1. Define Model and Image ---
 model_id = "llava-hf/llava-1.5-7b-hf"
-image_path = "images/image1.jpg"
+image_path = "images/image2.jpg"
 
 # --- 2. Configure 4-bit Loading ---
 quantization_config = BitsAndBytesConfig(
