@@ -35,9 +35,5 @@ Run this in a single Colab cell. It will clone your repository, move into the pr
 !pip install bitsandbytes accelerate
 !python llava_model.py
 from IPython.display import Image
-Image('images/image1.jpg', width=400) # Displaying the image with a set width```
-
-----
- 
-##
-
+Image('images/image1.jpg', width=400) # Displaying the image with a set width
+```
