@@ -5,7 +5,7 @@ import os
 import matplotlib.pyplot as plt
 import numpy as np
 
-# --- 1. Define Model and Image ---
+# Model and Image
 model_id = "llava-hf/llava-1.5-7b-hf"
 image_path = "images/image2.jpg"
 
