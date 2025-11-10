@@ -55,6 +55,6 @@ print(response_clean)
 print("\nShowing image with caption...")
 plt.figure(figsize=(10, 12)) 
 plt.imshow(np.asarray(raw_image))
-plt.title(response_clean, fontsize=10, pad=20, wrap=True) # Add caption as title
+plt.title(response_clean, fontsize=10, pad=20, wrap=True)
 plt.axis('off')
-plt.show() # This displays the plot in colab
+plt.show()
