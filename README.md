@@ -24,7 +24,7 @@ This is a 7B parameter model. It is **massive** (over 10GB in memory) and **requ
 2.  In the menu, go to **Runtime - Change runtime type**.
 3.  Select **T4 GPU**.
 
-### Step 2: Clone Project and run the script
+### Step 2: Clone Project and Run the Script
 
 Run this in a single Colab cell. It will clone your repository, move into the project folder, and install all necessary libraries.
 
