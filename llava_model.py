@@ -53,7 +53,7 @@ print("\n--- LLaVA Model Response ---")
 print(response_clean)
 
 print("\nShowing image with caption...")
-plt.figure(figsize=(10, 12))  # Make figure larger to fit text
+plt.figure(figsize=(10, 12)) 
 plt.imshow(np.asarray(raw_image))
 plt.title(response_clean, fontsize=10, pad=20, wrap=True) # Add caption as title
 plt.axis('off')
