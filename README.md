@@ -44,3 +44,23 @@ Image('images/image1.jpg', width=400) # Displaying the image with a set width
 
 ![alt text](<Screenshots/screenshot1.png>)
 ![alt text](<Screenshots/screenshot2.png>)
+
+---
+
+## Technology Stack
+
+Python 
+
+PyTorch: For tensor operations and deep learning.
+
+Hugging Face transformers: For loading the LLaVA model and processor.
+
+Hugging Face accelerate: For efficient model loading.
+
+bitsandbytes: For 4-bit quantization (to make the model fit on the GPU).
+
+Pillow (PIL): For loading and processing images.
+
+matplotlib: For plotting the final image and caption.
+
+Google Colab: For free T4 GPU acceleration.
