@@ -62,4 +62,4 @@ plt.show()
 
 
 
-nnd
+nn
