@@ -62,4 +62,4 @@ plt.show()
 
 
 
-nndbud vjkfdfs
+nndbud vjkf
