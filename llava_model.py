@@ -58,3 +58,8 @@ plt.imshow(np.asarray(raw_image))
 plt.title(response_clean, fontsize=10, pad=20, wrap=True)
 plt.axis('off')
 plt.show()
+
+
+
+
+nnd
